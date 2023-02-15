@@ -1,5 +1,5 @@
-FROM xhofe/alist:latest
-LABEL MAINTAINER="i@nn.ci"
+FROM xiaoyaliu/alist:latest
+LABEL MAINTAINER="fionera@outlook.com"
 WORKDIR /opt/alist/
 
 EXPOSE 5244
